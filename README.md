@@ -23,3 +23,5 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 # Dashbord interaction
 
 <a herf="https://github.com/jannenandu567/inventory-records-/blob/main/dashboard.png">dataset<a/>
+
+# Procees
