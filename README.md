@@ -9,13 +9,13 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 
 # Questions kpi
 
--What is the total opening stock available?
--How many units were purchased (stock-in)?
--How many units were sold?
--What is the current stock on hand?
--What is the total inventory value?
--Which product has the highest number of units sold?
--Which product has the lowest number of units sold?
--What are the top 5 best-selling products?
--What percentage of inventory has been sold?
--Which products have no sales or very low sales?
+-What is the total opening stock available
+-How many units were purchased (stock-in)
+-How many units were sold
+-What is the current stock on hand
+-What is the total inventory value
+-Which product has the highest number of units sold
+-Which product has the lowest number of units sold
+-What are the top 5 best-selling products
+-What percentage of inventory has been sold
+-Which products have no sales or very low sales
