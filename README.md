@@ -25,3 +25,7 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 <a herf="https://github.com/jannenandu567/inventory-records-/blob/main/dashboard.png">dataset<a/>
 
 # Procees
+-Collected and cleaned the inventory dataset to ensure accuracy and consistency.
+-Analyzed inventory data using Pivot Tables and calculated key performance indicators (KPIs).
+-Created charts and visualizations to monitor stock levels, sales, and inventory value.
+-Developed an interactive Excel dashboard to generate insights and support decision-making.
