@@ -29,3 +29,5 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 -Analyzed inventory data using Pivot Tables and calculated key performance indicators (KPIs).
 -Created charts and visualizations to monitor stock levels, sales, and inventory value.
 -Developed an interactive Excel dashboard to generate insights and support decision-making.
+
+# Dashbord
