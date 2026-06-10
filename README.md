@@ -6,3 +6,5 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 
 # dataset
 <a herf="https://github.com/jannenandu567/inventory-records-/blob/main/Inventory.xlsx">dataset<a/>
+
+# Questions kpi
