@@ -20,4 +20,5 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 -What percentage of inventory has been sold
 -Which products have no sales or very low sales
 
-# Process
+# Dashbord interaction
+
