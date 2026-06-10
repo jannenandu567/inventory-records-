@@ -34,3 +34,5 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 <img width="1362" height="665" alt="dashboard" src="https://github.com/user-attachments/assets/ab8dcab2-65c3-477d-9cc4-a480fe1baa14" />
 
 # Project insight
+<img width="1362" height="665" alt="dashboard" src="https://github.com/user-attachments/assets/d7902b5d-aee7-497a-b39d-a0c8c9bd240a" />
+
