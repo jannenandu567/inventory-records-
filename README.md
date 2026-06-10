@@ -19,3 +19,5 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 -What are the top 5 best-selling products
 -What percentage of inventory has been sold
 -Which products have no sales or very low sales
+
+# Process
