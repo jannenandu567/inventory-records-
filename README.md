@@ -31,3 +31,4 @@ A sample Inventory Management Dataset created for data analysis, reporting, and 
 -Developed an interactive Excel dashboard to generate insights and support decision-making.
 
 # Dashbord
+<img width="1362" height="665" alt="dashboard" src="https://github.com/user-attachments/assets/ab8dcab2-65c3-477d-9cc4-a480fe1baa14" />
